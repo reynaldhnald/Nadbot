@@ -1,1 +1,1 @@
-worker: python botnad.py
+worker: python3 -u botnad.py
