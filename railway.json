@@ -1,0 +1,8 @@
+{
+  "builds": [
+    { "src": ".", "use": "python" }
+  ],
+  "deploy": {
+    "startCommand": "python3 -u botnad.py"
+  }
+}
